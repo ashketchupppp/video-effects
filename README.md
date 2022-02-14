@@ -7,4 +7,4 @@ Mostly used as a place for me to see what I can create.
 
 ### Frame Differencing
 
-https://tenor.com/view/gif-24887416
+![frame differencing example](https://tenor.com/view/gif-24887416)
