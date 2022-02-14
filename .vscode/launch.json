@@ -1,0 +1,20 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "type": "python",
+      "request": "launch",
+      "program": "__main__.py",
+      "console": "integratedTerminal",
+      "args": [
+        "C:\\Users\\compu\\Documents\\git\\random\\video\\videos\\chemistry720p.mp4",
+        "--lowpass",
+        "--outputFilePath=./diff.mp4"
+      ]
+    }
+  ]
+}

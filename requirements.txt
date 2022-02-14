@@ -1,0 +1,5 @@
+moviepy
+pydub
+numpy
+opencv-python
+enlighten
